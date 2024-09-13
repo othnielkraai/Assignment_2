@@ -1,2 +1,1 @@
-Hallo dit is een test 
-en dit is test 2
+Hallo dit is een test
